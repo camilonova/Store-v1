@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Created-By: Camilo Nova
+Main-Class: com.nova.gui.Store
+Class-Path: libs/connector.jar libs/look.jar
